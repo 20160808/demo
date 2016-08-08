@@ -1,0 +1,3 @@
+this is demo3
+git is free software
+test git add command
